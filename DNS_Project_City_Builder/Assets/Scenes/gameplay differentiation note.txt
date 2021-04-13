@@ -1,0 +1,4 @@
+1. Water buildings are faster to build, but less durable.
+2. Water spirits are moving faster, but have less hp.
+3. Water turret attacks faster, but stone turret deals more damage.
+4. Water exploding trap deals more damage, but stone stunning trap stuns for longer.

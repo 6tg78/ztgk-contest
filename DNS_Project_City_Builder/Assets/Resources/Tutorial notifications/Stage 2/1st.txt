@@ -1,0 +1,1 @@
+These are your spirits. You can assign them to buildings to make them work. They can do different things depending on what building they are assigned to.

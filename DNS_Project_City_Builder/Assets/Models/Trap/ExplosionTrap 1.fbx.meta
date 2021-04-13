@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 83b9b11eba77d6f47998625b25267f16
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 5026393221233444514
+    second: amber.001_cell.014|amber.001_cell.001Action
+  - first:
+      74: 5536507206580669484
+    second: amber.001_cell.014|amber.001_cell.002Action
+  - first:
+      74: -6394013707787891337
+    second: amber.001_cell.014|amber.001_cell.003Action
+  - first:
+      74: 133761238550644327
+    second: amber.001_cell.014|amber.001_cell.004Action
+  - first:
+      74: -5719663056702980493
+    second: amber.001_cell.014|amber.001_cell.005Action
+  - first:
+      74: -6118012180791180711
+    second: amber.001_cell.014|amber.001_cell.006Action
+  - first:
+      74: 906024502067092369
+    second: amber.001_cell.014|amber.001_cell.007Action
+  - first:
+      74: 4386049872353769793
+    second: amber.001_cell.014|amber.001_cell.010Action
+  - first:
+      74: -1031594638501037200
+    second: amber.001_cell.014|amber.001_cell.011Action
+  - first:
+      74: 144049672983897746
+    second: amber.001_cell.014|amber.001_cell.012Action
+  - first:
+      74: 3602154165581255586
+    second: amber.001_cell.014|amber.001_cell.013Action
+  - first:
+      74: 6391594827572298933
+    second: amber.001_cell.014|amber.001_cell.014Action
+  - first:
+      74: -7783355057025415331
+    second: amber.001_cell.014|amber.001_cell.015Action
+  - first:
+      74: -1178502705339689356
+    second: amber.001_cell.014|amber.001_cell.016Action
+  - first:
+      74: 91540168450700555
+    second: amber.001_cell.014|amber.001_cell.018Action
+  - first:
+      74: 3838009309702101686
+    second: amber.001_cell.014|amber.001_cell.019Action
+  - first:
+      74: 467130712393131347
+    second: amber.001_cell.014|amber.001_cell.020Action
+  - first:
+      74: -5792613990155127035
+    second: amber.001_cell.014|amber.001_cell.021Action
+  - first:
+      74: 4448125300673252640
+    second: amber.001_cell.014|amber.001_cell.022Action
+  - first:
+      74: 3917501488086878248
+    second: amber.001_cell.014|amber.001_cell.023Action
+  - first:
+      74: 1023520927049471782
+    second: amber.001_cell.014|amber.001_cellAction
+  - first:
+      74: 4057683208420306594
+    second: amber.001_cell.014|FieldAction
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

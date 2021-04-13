@@ -1,0 +1,30 @@
+Few git rules:
+1.always pull changes at beginning
+	- if you had any changes use git add and git commit unless working on your own branch (for auto merge if needed)
+2.adding changes
+	- git add Assets - add only changes from assets to not destroy project (probably you need to type git DNS_Project_City_Builder/Assets)
+		- exception use git add . when added some big changes like LWRP, i mean changes in projectsettings or qualitysettings
+	- git status to check what changes was added, if you see that something was added you didnt changed (fe. prefabs) remove it with git restore --staged <filePath>
+	- git commit -m "message" to commit changes, try to name it as best as you can	
+	- git pull to check if there are any changes and merge it if yes
+	- if there are any conflicts resolve them (best try VS Code), there are many possibilities to resolve them so here its not enough space
+		- save changes
+		- check if project is at least compiling
+		- when resolved again use git add
+		- git commit (without -m "message" for auto commit - merge commits should be named as merge commits (type (Escape):wq to close VIM))
+	- git push to push changes
+3.usefull commands
+	git log - show all (local) commits 
+	git stash - push local changes on stack
+	git stash pop - pop this changes from stack
+	git checkout <commit ID> - go back to defined commit, you can fing commits id with git log
+	git checkout <name> - create new branch or switch to this branch (master is main branch)
+	gitk - open git GUI and show tree
+	git fetch - download changes but do not add them to the working tree (usefull when just checking if there are any changes)
+	git reset -- hard remove local changes
+	git revert <commit ID> - revert pushed commit
+4.do not create (or at least commit) empty folders in unity
+5.when you add anything to the project open unity to import them and create .meta
+6.To repair some prefabs or any files you can git checkout to commit where everything was fine, copy those files, git checkout master and paste them
+
+https://www.youtube.com/watch?v=_BWZwoTJxao - small dns talk about git

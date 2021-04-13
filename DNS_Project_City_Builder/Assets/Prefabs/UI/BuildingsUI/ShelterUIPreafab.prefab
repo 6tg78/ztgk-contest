@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8496334121693788659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5583200850700564315}
+  - component: {fileID: -5455255523246217452}
+  m_Layer: 0
+  m_Name: ShelterUIPreafab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5583200850700564315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8496334121693788659}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 577.6491, y: 292.04, z: 99.875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-5455255523246217452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8496334121693788659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e02a94fe4295d428e302f5c13042fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _constructionPrefab: {fileID: 1217764805478606901, guid: 74e2aaed164e1c74ca2e4b63dd0a7428,
+    type: 3}
+  _builtPrefab: {fileID: 1217764805478606901, guid: 931620c2b1c0c5848995f340b2f473f7,
+    type: 3}
+  _damagedPrefab: {fileID: 1217764805478606901, guid: 4352bd27101436f4cadc2ff4029bd545,
+    type: 3}
+  _repairingPrefab: {fileID: 1217764805478606901, guid: 238a941d98bc6f04894662d2fe1336ea,
+    type: 3}

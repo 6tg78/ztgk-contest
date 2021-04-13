@@ -1,0 +1,13 @@
+Scenes flow:
+
+1) Splash screen
+2) Introduction
+3) Main Gameplay
+4) Ending
+5) Credits
+
+1 - "Press something to play!" and some nice 2D art as a background.
+2 - Some 2D art related to the beggining of our story and the text describing it. The player should know all the story background and some things about our world after reading it.
+3 - where the game takes place.
+4 - It should be analogous to Introduction (art related to the end of the story + some description of what happened and what is the forest going to be like from now on).
+5 - "Thank you for playing ~title~!" and a list of all authors.
